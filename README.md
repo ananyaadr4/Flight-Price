@@ -1,9 +1,29 @@
+✈️ Flight Price Prediction
+A machine learning project to predict flight prices using a Random Forest Regressor, built with over 100,000 records.
 
-- Developed a predictive model for flight prices using a RandomForestRegressor, achieving an R² score of 0.806 with 100,000+ records
--Performed Pre-processing of data, EDA to identify meaningful insights 
--Performed extensive outlier detection and mitigation, identifying 94 outliers in the dataset and adjusting extreme values to the median price. to improve model accuracy.
--Applied feature selection using mutual information regression, identifying key features contributing to price prediction.
--Optimized model hyperparameters using RandomizedSearchCV, leading to a best score of 0.821.
--Automated model evaluation with custom metrics, including MAPE of 13.30%, and created streamlined training and prediction pipelines.
-- Developed a predictive model for flight prices using a RandomForestRegressor, achieving an R² score of 0.806 with 100,000+ records -Performed Pre-processing of data, EDA to identify meaningful insights -Performed extensive outlier detection and mitigation, identifying 94 outliers in the dataset and adjusting extreme values to the median price. to improve model accuracy. -Applied feature selection using mutual information regression, identifying key features contributing to price prediction. -Optimized model hyperparameters using RandomizedSearchCV, leading to a best score of 0.821. -Automated model evaluation with custom metrics, including MAPE of 13.30%, and created streamlined training and prediction pipelines.
--Skills: Machine Learning · Data Visualization · Python (Programming Language) · Jupyter · Random Forest · Predictive Modeling · EDA · Microsoft Excel · Data Analysis · Statistical Data Analysis · Applied Machine Learning · Supervised Learning
+🔍 Project Highlights
+Developed a predictive model for flight prices using RandomForestRegressor, achieving an R² score of 0.806.
+
+Performed data preprocessing and exploratory data analysis (EDA) to uncover key insights.
+
+Conducted extensive outlier detection and mitigation, identifying 94 outliers and adjusting extreme values to the median, improving model accuracy.
+
+Applied feature selection using mutual information regression to identify key drivers of price.
+
+Optimized model hyperparameters with RandomizedSearchCV, improving R² to 0.821.
+
+Automated model evaluation with custom metrics:
+
+MAPE: 13.30%
+
+Streamlined training and prediction pipelines for reproducibility and deployment.
+
+🛠️ Tools & Skills Used
+Languages: Python
+
+Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+
+Techniques: Predictive Modeling, Supervised Learning, Outlier Treatment, Feature Selection, Hyperparameter Tuning
+
+Tools: Jupyter Notebook, Microsoft Excel
+
