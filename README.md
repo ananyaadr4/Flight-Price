@@ -1,8 +1,9 @@
+
 - Developed a predictive model for flight prices using a RandomForestRegressor, achieving an R² score of 0.806 with 100,000+ records
- -Performed Pre-processing of data, EDA to identify meaningful insights 
- -Performed extensive outlier detection and mitigation, identifying 94 outliers in the dataset and adjusting extreme values to the median price. to improve model accuracy.
+-Performed Pre-processing of data, EDA to identify meaningful insights 
+-Performed extensive outlier detection and mitigation, identifying 94 outliers in the dataset and adjusting extreme values to the median price. to improve model accuracy.
 -Applied feature selection using mutual information regression, identifying key features contributing to price prediction.
 -Optimized model hyperparameters using RandomizedSearchCV, leading to a best score of 0.821.
 -Automated model evaluation with custom metrics, including MAPE of 13.30%, and created streamlined training and prediction pipelines.
 - Developed a predictive model for flight prices using a RandomForestRegressor, achieving an R² score of 0.806 with 100,000+ records -Performed Pre-processing of data, EDA to identify meaningful insights -Performed extensive outlier detection and mitigation, identifying 94 outliers in the dataset and adjusting extreme values to the median price. to improve model accuracy. -Applied feature selection using mutual information regression, identifying key features contributing to price prediction. -Optimized model hyperparameters using RandomizedSearchCV, leading to a best score of 0.821. -Automated model evaluation with custom metrics, including MAPE of 13.30%, and created streamlined training and prediction pipelines.
-Skills: Machine Learning · Data Visualization · Python (Programming Language) · Jupyter · Random Forest · Predictive Modeling · EDA · Microsoft Excel · Data Analysis · Statistical Data Analysis · Applied Machine Learning · Supervised Learning
+-Skills: Machine Learning · Data Visualization · Python (Programming Language) · Jupyter · Random Forest · Predictive Modeling · EDA · Microsoft Excel · Data Analysis · Statistical Data Analysis · Applied Machine Learning · Supervised Learning
